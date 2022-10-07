@@ -10,6 +10,7 @@ channels:
   - sherpa
 
 dependencies:
+  - openssl
   - gammapy=0.18.2
   - python=3.7.0
   - ipython=7.10
@@ -36,4 +37,3 @@ dependencies:
   - parfive=1.0
   - pip
   - requests
-  - openssl
